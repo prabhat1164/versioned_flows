@@ -1,4 +1,6 @@
 flows:
+  b700c776-c51b-4b02-a757-cf1ac2b3158b: {ver: 1, file: POC_on_MongoDb.snapshot, author: anonymous,
+    created: 1685368379873, flowName: POC on MongoDb, flowDesc: ''}
   faf6faf3-2baf-437a-a51e-a78a0fc0c440: {ver: 1, file: Data_Enrichment.snapshot, comments: '',
     author: anonymous, created: 1685364441390, flowName: Data Enrichment, flowDesc: ''}
 layoutVer: 1
